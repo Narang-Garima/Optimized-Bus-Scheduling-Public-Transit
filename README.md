@@ -53,8 +53,6 @@ Urban public transit systems often suffer from outdated and rigid scheduling tha
 
     A browser window will automatically open with the app. If not, copy and paste the link shown in the terminal into your browser.
 
-Contact
 
-For questions or suggestions, please contact:garimanarang2407@gmail.com
 
 
